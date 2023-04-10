@@ -7,15 +7,25 @@ Purpose: Create dataframes for betatesters to use the within the PlanMyTrip app 
          
          
  Resources: 
+ 
  Python
+ 
  Jupyter Notebook
+ 
  Pandas
+ 
  Requests
+ 
  Holoview
+ 
  Numpy
+ 
  Geoviews and geoviews.feature
+ 
  Geopandas
+ 
  hvplot
+ 
  * Additional imports and resources above used to bypass errors
  
  
